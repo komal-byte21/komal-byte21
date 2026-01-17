@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 BTech CSE Student & Full-Stack Developer. <br>🛠️ Expertise in  Frontend Development , VIDEO EDITING , ETC.<br>🤖 Building the future with AI-powered coding tools.
+Co-Founder @Lstatic | Building @aethercodesociety | Open Source Contributor | Frontend Developer | CS Undergrad @QU’28
 
 
 # 💻 Tech Stack:
