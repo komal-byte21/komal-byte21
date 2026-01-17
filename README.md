@@ -1,5 +1,5 @@
 # 💫 About Me:
-Co-Founder @Lstatic | Building @aethercodesociety | Open Source Contributor | Frontend Developer | CS Undergrad @QU’28
+Co-Founder @Lstatic <br> Building @aethercodesociety <br> Open Source Contributor <br> Frontend Developer <br> CS Undergrad @QU’28
 
 
 # 💻 Tech Stack:
